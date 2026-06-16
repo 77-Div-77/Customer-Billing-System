@@ -1,6 +1,7 @@
 Grocery Shop Management System
 
-Overview
+Overview: 
+
 This is a Grocery Shop Management System implemented in C. 
 It provides functionalities to manage a grocery shop's inventory, place orders, generate bills, and maintain sales reports. 
 The system features an interactive console interface with color-coded outputs for a better user experience.
